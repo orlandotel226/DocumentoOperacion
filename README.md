@@ -1,2 +1,2 @@
 # DocumentoOperacion
-Operaciones dentro de paginas web
+Realiza las operaciones dentro de esta pagina web.
